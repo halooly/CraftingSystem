@@ -38,7 +38,8 @@
 		{"id":"96c1568ea03f72b4","type":"text","text":"Abyssal 2","x":1365,"y":-620,"width":250,"height":60},
 		{"id":"c174f7f5b7f842f9","type":"text","text":"Ambigous\n\n","x":1215,"y":-480,"width":300,"height":123},
 		{"id":"3e999084229ebedc","type":"text","text":"\n2A + O\n\tA Op Merge\n\n2A + D\n\tA subject Merge\n\n3A\nNan\n\n\nD + D\n\tUse Higher Op\nO + O\n\tUse Higher Syb\nA + A \n\tNan\n\n","x":20,"y":-2240,"width":320,"height":639},
-		{"id":"1dd3e5e965cc5c96","type":"text","text":"","x":-3123,"y":-1688,"width":250,"height":60}
+		{"id":"1dd3e5e965cc5c96","type":"text","text":"","x":-2240,"y":-700,"width":250,"height":60},
+		{"id":"7bfc835f4d722d3f","type":"text","text":"","x":-2240,"y":-328,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"9e60e4f6db398aa6","fromNode":"135000fe3f7167fd","fromSide":"bottom","toNode":"c86a33b02fb6082d","toSide":"left"},
