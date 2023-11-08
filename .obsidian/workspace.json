@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7f926a5c578a918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blacksmithing/Stats.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e34ac1138b53aa5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blacksmithing/Features & Properties.md",
+                "file": "Alchemy/Summery.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a8e64822bd69a88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blacksmithing/Metal.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blacksmithing/Features & Properties.md",
+                "file": "Blacksmithing/Metal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blacksmithing/Features & Properties.md",
+                "file": "Blacksmithing/Metal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blacksmithing/Features & Properties.md"
+                "file": "Blacksmithing/Metal.md"
               }
             }
           }
@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 269.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,13 +159,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e34ac1138b53aa5b",
+  "active": "4a8e64822bd69a88",
   "lastOpenFiles": [
+    "Blacksmithing/Stats.md",
+    "Blacksmithing/Features & Properties.md",
+    "Crafting Roll.md",
+    "Heyo, It is I..md",
+    "Untitled 1.canvas",
+    "Alchemy/Summery.md",
+    "Blacksmithing/Summery.md",
+    "Blacksmithing/Metal.md",
+    "z_dir/Pasted image 20231107064455.png",
     "CraftingSystem/LICENSE",
     "CraftingSystem",
-    "Blacksmithing/Summery.md",
-    "Blacksmithing/Stats.md",
-    "Alchemy/Summery.md",
     "Alchemy/Cauldron.md",
     "Alchemy/Ingredients/Reactants.md",
     "Alchemy/Experiment.md",
@@ -174,16 +179,11 @@
     "Alchemy/Ingredients/Base.md",
     "Tier.md",
     "Alchemy/Duration.md",
-    "Untitled 1.canvas",
     "ideas.md",
-    "Crafting Roll.md",
     "Alchemy/Accident.md",
     "Alchemy/Type.md",
-    "Blacksmithing/Features & Properties.md",
-    "Blacksmithing/Metal.md",
     "Tests.md",
     "Binder.md",
-    "z_dir/Pasted image 20231107064455.png",
     "Untitled.canvas",
     "Deicde.md",
     "z_dir/Pasted image 20231106161701.png",

@@ -28,21 +28,21 @@ Diff = 7
 Positive: 
 Living Armor
 +1 AC
++Spell Save DC
 +1 Initiative 
 Resistance (only Physical)
-Stealthy (no disadvantage on stealth roles)
-+a saving throw 
++a saving throw
 padding (less -x physical)
-Spell Save DC
-considered proficient when wearing this armor 
 sturdy (adv against being grappled/shoved)
-
+considered proficient when wearing this armor 
+Stealthy (no disadvantage on stealth roles)
+**note to helal - i have no idea how to began numbering these keep one thing we already have an ac problem**
 Negative: 
-Living Armor
--1 AC
--1 Initiative 
 clunky (disadvantage on stealth roles)
 shoddy (take +x physical damage)
+-1 AC
+-1 Initiative 
 awkward (disadvantage on ability checks while wearing the armor)
 Vulnerability to a damage type
+Living Armor
 
