@@ -36,7 +36,9 @@ padding (less -x physical)
 sturdy (adv against being grappled/shoved)
 considered proficient when wearing this armor 
 Stealthy (no disadvantage on stealth roles)
-**note to helal - i have no idea how to began numbering these keep one thing we already have an ac problem**
+
+**note to helal - i have no idea how to began numbering these keep one thing in mind we already have an ac problem**
+
 Negative: 
 clunky (disadvantage on stealth roles)
 shoddy (take +x physical damage)
