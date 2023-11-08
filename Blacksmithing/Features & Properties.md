@@ -30,13 +30,19 @@ Living Armor
 +1 AC
 +1 Initiative 
 Resistance (only Physical)
-Stealthy 
+Stealthy (no disadvantage on stealth roles)
 +a saving throw 
 padding (less -x physical)
-SpellSave DC
+Spell Save DC
+considered proficient when wearing this armor 
+sturdy (adv against being grappled/shoved)
 
 Negative: 
 Living Armor
 -1 AC
 -1 Initiative 
+clunky (disadvantage on stealth roles)
+shoddy (take +x physical damage)
+awkward (disadvantage on ability checks while wearing the armor)
+Vulnerability to a damage type
 
